@@ -13,7 +13,7 @@ Pour ajouter un nouveau template à ce répertoire, veuillez suivre ces étapes 
 2. **Création du Dossier du Template** :
    - Nommez le dossier de manière descriptive, basée sur la technologie et le type de projet, par exemple, `ReactJS-BlogTemplate`.
    - Incluez un fichier `README.md` dans le dossier détaillant l'objectif du template, la technologie utilisée, les principales caractéristiques et les instructions de démarrage.
-   - Ajoutez un sous-dossier `assets/` ou `screenshots/` contenant des représentations visuelles du style et des fonctionnalités du template.
+   - Ajoutez un sous-dossier `screenshots/` contenant des représentations visuelles du style et des fonctionnalités du template.
 
 3. **Documentation du Template** :
    - Fournissez une description concise mais informative du template, y compris ses caractéristiques et les types de projets pour lesquels il est le plus adapté.
