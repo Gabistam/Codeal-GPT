@@ -63,7 +63,7 @@ const Footer = () => {
         </div>
         <div className="pr-line"></div>
         <div className="footer-bottom-area">
-          <p>© Copyright | <Link href="https://themeforest.net/user/theme_ocean" target="_blank">Theme Ocean</Link>  | All Rights Reserved is Proudly </p>
+          <p>© Copyright | Gabistam  | 2024 </p>
         </div>
       </div>
       <div className="lines">
